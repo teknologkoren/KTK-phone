@@ -79,7 +79,7 @@ def handleWelcome():
 
 @app.route('/')
 def entry_point():
-  return 'Hello! Welcome to Kongl. Teknologkörens automatic answering machine'
+  return "Hello! Welcome to Kongl. Teknologkörens automatic answering machine. Try calling me on: {}".format(config.answering_machine_number)
 
 if __name__ == '__main__':
   app.run(debug=True)
