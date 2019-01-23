@@ -1,0 +1,426 @@
+ [{
+ 	"name": "Ack Värmeland",
+ 	"page": "177",
+ 	"tones": ["A"],
+ 	"chord": "Dm"
+ }, {
+ 	"name": "Bacchi calender",
+ 	"page": "116",
+ 	"tones": ["D"],
+ 	"chord": "D"
+ }, {
+ 	"name": "Bort allt vad oro gör",
+ 	"page": "96",
+ 	"tones": ["C"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Dansen går på Svinsta skär",
+ 	"page": "168",
+ 	"tones": ["D", "B", "G", "G"],
+ 	"chord": "G"
+ }, {
+ 	"name": "Das Königslied",
+ 	"page": "62",
+ 	"tones": ["E"],
+ 	"chord": "A"
+ }, {
+ 	"name": "Drink to me only",
+ 	"page": "86",
+ 	"tones": ["A", "C", "A", "F"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Dryckesvisa",
+ 	"page": "66",
+ 	"tones": ["C", "Eb", "Ab", "Ab"],
+ 	"chord": "Ab"
+ }, {
+ 	"name": "Du gamla du fria",
+ 	"page": "10",
+ 	"tones": ["C#", "A", "E", "A"],
+ 	"chord": "A"
+ }, {
+ 	"name": "E du vaken Lars",
+ 	"page": "170",
+ 	"tones": ["C"],
+ 	"chord": "C"
+ }, {
+ 	"name": "En blygsam kärleksförklaring",
+ 	"page": "79",
+ 	"tones": ["D"],
+ 	"chord": "Dm"
+ }, {
+ 	"name": "En hela",
+ 	"page": "24",
+ 	"tones": ["C#", "A"],
+ 	"chord": "A"
+ }, {
+ 	"name": "En punchafton / En sommarafton",
+ 	"page": "69",
+ 	"tones": ["F", "Db", "Ab", "Db"],
+ 	"chord": "Db"
+ }, {
+ 	"name": "Fair Phyllis",
+ 	"page": "145",
+ 	"tones": ["F"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Fjäriln vingad syns på Haga",
+ 	"page": "114",
+ 	"tones": ["G", "B", "G"],
+ 	"chord": "G"
+ }, {
+ 	"name": "For he's a jolly good fellow",
+ 	"page": "188",
+ 	"tones": ["C"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Gammalt mjöd",
+ 	"page": "54",
+ 	"tones": ["G"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Glädjens blomster",
+ 	"page": "178",
+ 	"tones": ["G", "D", "Bb", "G"],
+ 	"chord": "Gm"
+ }, {
+ 	"name": "Goodnight sweetheart",
+ 	"page": "186",
+ 	"tones": ["D"],
+ 	"chord": "g"
+ }, {
+ 	"name": "Gott öl",
+ 	"page": "48",
+ 	"tones": ["E", "A"],
+ 	"chord": "Am"
+ }, {
+ 	"name": "Gubben Noach ",
+ 	"page": "100",
+ 	"tones": ["C"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Gute Nacht",
+ 	"page": "84",
+ 	"tones": ["C"],
+ 	"chord": "Fm"
+ }, {
+ 	"name": "Gå bro sång",
+ 	"page": "180",
+ 	"tones": ["G"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Halvan",
+ 	"page": "27",
+ 	"tones": ["Eb"],
+ 	"chord": "Eb"
+ }, {
+ 	"name": "Helan går",
+ 	"page": "26",
+ 	"tones": ["F#", "D"],
+ 	"chord": "D"
+ }, {
+ 	"name": "Här är chalmeristerna",
+ 	"page": "9",
+ 	"tones": ["E"],
+ 	"chord": "A"
+ }, {
+ 	"name": "I kungens sal",
+ 	"page": "56",
+ 	"tones": ["D"],
+ 	"chord": "Dm"
+ }, {
+ 	"name": "Island",
+ 	"page": "32",
+ 	"tones": ["F"],
+ 	"chord": "Fm"
+ }, {
+ 	"name": "Italien",
+ 	"page": "18",
+ 	"tones": ["C"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Ja må han leva",
+ 	"page": "17",
+ 	"tones": ["F", "C", "A", "F"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Joachim uti Babylon",
+ 	"page": "106",
+ 	"tones": ["F", "F", "A", "F"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Juhlallinen olutviisu",
+ 	"page": "49",
+ 	"tones": ["G"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Klinga nu med klarinetter",
+ 	"page": "108",
+ 	"tones": ["Bb", "G", "Bb", "Bb"],
+ 	"chord": "Eb"
+ }, {
+ 	"name": "Kort hyllning till punchen",
+ 	"page": "74",
+ 	"tones": ["C"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Kristallen den fina",
+ 	"page": "94",
+ 	"tones": ["D"],
+ 	"chord": "Dm"
+ }, {
+ 	"name": "Kung Liljekonvalje",
+ 	"page": "128",
+ 	"tones": ["G"],
+ 	"chord": "Bb"
+ }, {
+ 	"name": "Kung Oscars Valspråk",
+ 	"page": "21",
+ 	"tones": ["C"],
+ 	"chord": "Cm"
+ }, {
+ 	"name": "Kungssången",
+ 	"page": "11",
+ 	"tones": ["F"],
+ 	"chord": "Bb"
+ }, {
+ 	"name": "Käraste bröder",
+ 	"page": "110",
+ 	"tones": ["F"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Lustwins visa",
+ 	"page": "64",
+ 	"tones": ["A"],
+ 	"chord": "D"
+ }, {
+ 	"name": "Låt brusa barn låt brusa",
+ 	"page": "140",
+ 	"tones": ["F#", "C#", "C#", "C#"],
+ 	"chord": "F#m"
+ }, {
+ 	"name": "Längtan till landet",
+ 	"page": "120",
+ 	"tones": ["G", "D", "B", "G"],
+ 	"chord": "G"
+ }, {
+ 	"name": "Madrigal",
+ 	"page": "83",
+ 	"tones": ["Db", "Ab", "F", "Db"],
+ 	"chord": "Db"
+ }, {
+ 	"name": "Majsång (O hur härligt)",
+ 	"page": "127",
+ 	"tones": ["Ab", "Eb", "C", "Ab"],
+ 	"chord": "Ab"
+ }, {
+ 	"name": "Majsång (Sköna maj)",
+ 	"page": "124",
+ 	"tones": ["D"],
+ 	"chord": "G"
+ }, {
+ 	"name": "Man borde inte sova",
+ 	"page": "78",
+ 	"tones": ["B", "G#", "E", "B"],
+ 	"chord": "E"
+ }, {
+ 	"name": "Måsen",
+ 	"page": "43",
+ 	"tones": ["E"],
+ 	"chord": "Am"
+ }, {
+ 	"name": "Nocturne",
+ 	"page": "90",
+ 	"tones": ["A", "F", "C", "F"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Nordisk punchsång / Nordisk studentsång",
+ 	"page": "73",
+ 	"tones": ["Eb", "Eb", "G", "Eb"],
+ 	"chord": "Eb"
+ }, {
+ 	"name": "Osquar",
+ 	"page": "8",
+ 	"tones": ["E"],
+ 	"chord": "A"
+ }, {
+ 	"name": "Pingst",
+ 	"page": "134",
+ 	"tones": ["G", "G", "B", "D", "G"],
+ 	"chord": "G"
+ }, {
+ 	"name": "Punchen kommer",
+ 	"page": "72",
+ 	"tones": ["C"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Punchen står på bordet",
+ 	"page": "68",
+ 	"tones": ["G"],
+ 	"chord": "G"
+ }, {
+ 	"name": "Ren som en jungfru",
+ 	"page": "44",
+ 	"tones": ["D", "B", "G", "G"],
+ 	"chord": "G"
+ }, {
+ 	"name": "Rövarsången",
+ 	"page": "179",
+ 	"tones": ["F#", "C#", "A#", "F#"],
+ 	"chord": "B"
+ }, {
+ 	"name": "\"Serenad (Slumra hulda)\"",
+ 	"page": "85",
+ 	"tones": ["C", "C", "F", "Ab"],
+ 	"chord": "Ab"
+ }, {
+ 	"name": "Serenad (Stjärnona tindra ren)",
+ 	"page": "81",
+ 	"tones": ["E", "C", "A", "A"],
+ 	"chord": "Am"
+ }, {
+ 	"name": "Shall I compare thee",
+ 	"page": "87",
+ 	"tones": ["E", "C", "E", "A"],
+ 	"chord": "Am"
+ }, {
+ 	"name": "Skummande öl",
+ 	"page": "46",
+ 	"tones": ["E"],
+ 	"chord": "Bm"
+ }, {
+ 	"name": "Skänklåt",
+ 	"page": "22",
+ 	"tones": ["E"],
+ 	"chord": "Am"
+ }, {
+ 	"name": "Smedsvisa",
+ 	"page": "160",
+ 	"tones": ["Bb", "F", "D", "Bb"],
+ 	"chord": "Bb"
+ }, {
+ 	"name": "Snappt jagar stormen våra år",
+ 	"page": "148",
+ 	"tones": ["G"],
+ 	"chord": "c"
+ }, {
+ 	"name": "Snappsvisa",
+ 	"page": "34",
+ 	"tones": ["C"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Sommarpsalm",
+ 	"page": "132",
+ 	"tones": ["E"],
+ 	"chord": "A"
+ }, {
+ 	"name": "Stolta stad",
+ 	"page": "118",
+ 	"tones": ["A", "C#"],
+ 	"chord": "A"
+ }, {
+ 	"name": "Svensk Punchsång",
+ 	"page": "70",
+ 	"tones": ["C", "G", "E", "C", "C"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Sverige",
+ 	"page": "14",
+ 	"tones": ["C", "Ab", "C", "Eb", "Ab"],
+ 	"chord": "Ab"
+ }, {
+ 	"name": "Sveriges Flagga",
+ 	"page": "12",
+ 	"tones": ["G"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Så lunka vi så småningom",
+ 	"page": "98",
+ 	"tones": ["C"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Så skimrande var aldrig havet",
+ 	"page": "92",
+ 	"tones": ["Bb"],
+ 	"chord": "Eb"
+ }, {
+ 	"name": "Sång till Stockholm",
+ 	"page": "165",
+ 	"tones": ["B", "G#", "B", "E"],
+ 	"chord": "E"
+ }, {
+ 	"name": "Tersen",
+ 	"page": "30",
+ 	"tones": ["D"],
+ 	"chord": "Bb"
+ }, {
+ 	"name": "Till österland",
+ 	"page": "82",
+ 	"tones": ["F#"],
+ 	"chord": "Bm"
+ }, {
+ 	"name": "Tjuv och tjuv det ska du heta",
+ 	"page": "156",
+ 	"tones": ["F"],
+ 	"chord": "Bb"
+ }, {
+ 	"name": "Tourdion",
+ 	"page": "63",
+ 	"tones": ["E", "B", "G", "E"],
+ 	"chord": "Em"
+ }, {
+ 	"name": "Trygg hos dig",
+ 	"page": "80",
+ 	"tones": ["D"],
+ 	"chord": "Am"
+ }, {
+ 	"name": "Under rönn och syren",
+ 	"page": "138",
+ 	"tones": ["G", "E", "C", "C"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Ur vägen / Var redo",
+ 	"page": "113",
+ 	"tones": ["D"],
+ 	"chord": "G"
+ }, {
+ 	"name": "Utan dig",
+ 	"page": "76",
+ 	"tones": ["C", "A", "F", "F"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Uti vår hage",
+ 	"page": "136",
+ 	"tones": ["F", "C", "Ab", "F"],
+ 	"chord": "Fm"
+ }, {
+ 	"name": "Vad har du i fickan Jan",
+ 	"page": "183",
+ 	"tones": ["Ab", "F", "C"],
+ 	"chord": "Ab"
+ }, {
+ 	"name": "Vårsång (Vårliga vindar draga)",
+ 	"page": "122",
+ 	"tones": ["A", "F", "C", "F"],
+ 	"chord": "F"
+ }, {
+ 	"name": "Värmlandsvisan",
+ 	"page": "176",
+ 	"tones": ["A"],
+ 	"chord": "Dm"
+ }, {
+ 	"name": "Ångbåtssång",
+ 	"page": "162",
+ 	"tones": ["Eb", "C", "Ab", "Ab"],
+ 	"chord": "Ab"
+ }, {
+ 	"name": "Än än gång däran",
+ 	"page": "40",
+ 	"tones": ["C", "G", "E", "C"],
+ 	"chord": "C"
+ }, {
+ 	"name": "Östermans snapsvisa",
+ 	"page": "42",
+ 	"tones": ["C"],
+ 	"chord": "C"
+ }]
