@@ -142,29 +142,28 @@ def handlePageNote():
   data = request.form
   result = int(data["result"])
   print(result) 
-  
-  songs = {
-    1 : "a-5s.wav",
-    2 : "aiss-5s.wav",
-    3 : "b-5s.wav"
-  }
 
-  if result not in songs:
-    out = {
-      "ivr": "{}/media/pick_a_song.wav".format(config.base_url),
-      "digits": 2, 
-      #"timeout": 10,
-      "repeat": 3,
-      "next": "{}/handle-song-ivr".format(config.base_url)
-    }
-    return json.dumps(out)
+  songs = json.loads(open("songs.json").read())  
 
-
-  if result == None:
-    return "Failed"
+  song = None
+  for s in songs:
+    if int(s["page"]) == result:
+      song = s
+      break
     
+
+  if song == None: #Song page number is not in json
+    return json.dumps({"play": "{}/media/song_not_found.wav".format(config.base_url), "next": "{}/new_call".format(config.base_url)})
+  
+  #generate the json to play the notes and chord 3 times
   out = {
-    "play" : config.base_url+"/media/songs/"+songs[result], 
+    "play" : config.base_url+"/media/songstarts/"+song["page"]+".wav", 
+    "next":{
+      "play" : config.base_url+"/media/songstarts/"+song["page"]+".wav", 
+      "next":{
+        "play" : config.base_url+"/media/songstarts/"+song["page"]+".wav", 
+      }
+    }
   }  
   
   return json.dumps(out)
@@ -178,16 +177,15 @@ def handleSong():
   print(result) 
   
   songs = {
-    1 : "a-5s.wav",
-    2 : "aiss-5s.wav",
-    3 : "b-5s.wav"
+    1 : "osquar.wav",
+    2 : "snapsvisa.wav",
+    3 : "x.wav"
   }
 
   if result not in songs:
     out = {
       "ivr": "{}/media/pick_a_song.wav".format(config.base_url),
       "digits": 2, 
-      #"timeout": 10,
       "repeat": 3,
       "next": "{}/handle-song-ivr".format(config.base_url)
     }
